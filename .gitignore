@@ -1,6 +1,10 @@
 # Visual Studio 
 ~*
 *~
+*.suo
 *.ipch
+*.pdb
+*.obj
+*.cache
 *.VC.db
 .vs/
