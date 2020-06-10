@@ -1,0 +1,6 @@
+# Visual Studio 
+~*
+*~
+*.ipch
+*.VC.db
+.vs/

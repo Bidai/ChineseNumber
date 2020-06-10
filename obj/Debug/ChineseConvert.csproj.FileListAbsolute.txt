@@ -1,0 +1,7 @@
+C:\CTF\Projects\git\ChineseNumber\bin\Debug\ChineseConvert.exe.config
+C:\CTF\Projects\git\ChineseNumber\bin\Debug\ChineseConvert.exe
+C:\CTF\Projects\git\ChineseNumber\bin\Debug\ChineseConvert.pdb
+C:\CTF\Projects\git\ChineseNumber\obj\Debug\ChineseConvert.csprojAssemblyReference.cache
+C:\CTF\Projects\git\ChineseNumber\obj\Debug\ChineseConvert.csproj.CoreCompileInputs.cache
+C:\CTF\Projects\git\ChineseNumber\obj\Debug\ChineseConvert.exe
+C:\CTF\Projects\git\ChineseNumber\obj\Debug\ChineseConvert.pdb
